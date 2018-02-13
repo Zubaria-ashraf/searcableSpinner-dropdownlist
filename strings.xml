@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">searchListView</string>
+
+    <string-array name="cityNameList">
+        <item>Select one</item>
+        <item>Samsung</item>
+        <item>Foxconn</item>
+        <item>Apple</item>
+        <item>Oppo</item>
+        <item>Nokia</item>
+        <item>LYF</item>
+        <item>Xiaomi</item>
+        <item>Huawei</item>
+        <item>Asus</item>
+        <item>Lenovo</item>
+    </string-array>
+</resources>
